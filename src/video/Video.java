@@ -10,7 +10,9 @@ package video;
  * @author nguimnac
  */
 public class Video {
-
+public void nocomment(){
+    System.out.println("sans commentaires");
+}
     /**
      * @param args the command line arguments
      */
